@@ -1,3 +1,4 @@
+Start
 For each number from 1 to 50:
     If number%3==0 and number%5==0:
         Print "FizzBuzz"
