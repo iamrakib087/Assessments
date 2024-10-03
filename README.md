@@ -45,13 +45,13 @@ Output: Hello World!
 Python has no command for declaring a variable. Variables do not need to be declared with any particular type, and can even change type after they have been set.
 ```python variables
 x=50         //integer type
-y="Ruhi"    //string type
+y="Hollow"    //string type
 print(x)   //print the value which is store in variable x
 print(y)  //print the value which is store in variable y
 ```
 ```
 Output: 50
-        Ruhi
+        Hollow
 ```
 ## JavaScript
 JavaScript Variables can be declared in 4 ways:
