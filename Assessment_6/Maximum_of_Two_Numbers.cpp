@@ -11,5 +11,5 @@ int main(){
     } else if (num1 < num2) {
         std::cout << "The Maximum number is: " << num2;
     }
-
+return 0;
 }
