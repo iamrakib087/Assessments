@@ -19,6 +19,7 @@ int main(){
     else{
             std::cout << i;
         }
+    //Adding commas and spaces between numbers
     if(i<50){
         std::cout << ", ";
     }
