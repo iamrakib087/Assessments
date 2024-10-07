@@ -11,4 +11,5 @@ int main(){
     else{
         std::cout << number << " is an odd number.";
     }
+    return 0;
 }
